@@ -1,0 +1,9 @@
+# Core functionality
+yt-dlp==2024.12.6
+faster-whisper==1.1.0
+transformers==4.46.0
+sentencepiece==0.2.0
+
+# CLI
+typer[all]==0.15.0
+rich==13.9.0
